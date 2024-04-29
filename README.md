@@ -7,6 +7,7 @@
 
 
 ## Demo
+https://weather-app-mohitpaul.netlify.app
 
 
 
